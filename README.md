@@ -1,2 +1,2 @@
 # DepressiveSuicidalBlackMetal
-Neocities-FirstWebsite
+BlackMetal-Neocities-Website
